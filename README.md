@@ -2,7 +2,7 @@
 
 A simple REST API, with one endpoint.
 
-POST: `\solve`
+POST: `/solve`
 Body: `{ boardString = "abcd efgh ijkl mnop" }`
 
 
